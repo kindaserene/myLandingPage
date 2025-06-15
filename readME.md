@@ -36,5 +36,3 @@ Most people waste ~2 hours daily thinking about food decisions. This app elimina
 Serene - someone who got tired of decision fatigue around food
 
 ---
-
-*Like having a uniform for your stomach.*
