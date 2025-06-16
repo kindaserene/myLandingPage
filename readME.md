@@ -33,6 +33,4 @@ Most people waste ~2 hours daily thinking about food decisions. This app elimina
 
 ## Built by
 
-Serene - someone who got tired of decision fatigue around food
-
----
+Serene - someone who got tired of decision fatigue around food.
